@@ -1,0 +1,22 @@
+.form-control{
+    padding: 15px;
+    border-radius: 15px;
+    border: 2px solid lightcoral;
+}
+.btn1{
+    font-size: medium;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #ff6666;
+    color: white;
+    border-radius: 10px;
+}
+.eye{
+    color: #0d1a00;
+    margin-top: -38px;
+    font-size: 20px;
+  }
+  
+  #hide1{
+    display: none;
+  }
